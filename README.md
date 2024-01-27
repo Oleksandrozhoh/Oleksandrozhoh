@@ -13,7 +13,6 @@
     <h2> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Me </h2>
        <ul>
       <p style="text-align: center;">
-        I’m on a mission to make the world a <br>better place, one line of code at a time! 🌎
      </p>  
          <br>
         <li>🎓 &nbsp;Senior QA Automation Engineer </li>
