@@ -1,15 +1,14 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 </h1>
-<ul>
-  <li>Aspiring full stack developer ☜(ﾟヮﾟ☜)</li>
-  <li></li>
+  <div>Aspiring full stack developer ☜(ﾟヮﾟ☜)</div>
+  <br>
   // React + react-router v7 crypto dashboard project:
-  <li>https://crypto-dash-oleksandrozhoh.netlify.app/</li>
+  <div>https://crypto-dash-oleksandrozhoh.netlify.app/</div>
   // Vanila JS + HTML projects
-  <li>https://oleksandrozhoh-omnifood-project01.netlify.app/</li>
-  <li>https://oleksandrozhoh-forkify-project02.netlify.app/</li>
-</ul>
+  <div>https://oleksandrozhoh-omnifood-project01.netlify.app/</div>
+  <div>https://oleksandrozhoh-forkify-project02.netlify.app/</div>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandrozhoh&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
