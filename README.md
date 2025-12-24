@@ -4,6 +4,9 @@
 <ul>
   <li>Aspiring full stack developer ☜(ﾟヮﾟ☜)</li>
   <li>Full stack projects in progress:</li>
+  // React + react-router v7 crypto dashboard project:
+  <li>https://crypto-dash-oleksandrozhoh.netlify.app/</li>
+  // Vanila JS + HTML projects
   <li>https://oleksandrozhoh-omnifood-project01.netlify.app/</li>
   <li>https://oleksandrozhoh-forkify-project02.netlify.app/</li>
 </ul>
