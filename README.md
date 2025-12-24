@@ -3,7 +3,7 @@
 </h1>
 <ul>
   <li>Aspiring full stack developer ☜(ﾟヮﾟ☜)</li>
-  <li>Full stack projects in progress:</li>
+  <li></li>
   // React + react-router v7 crypto dashboard project:
   <li>https://crypto-dash-oleksandrozhoh.netlify.app/</li>
   // Vanila JS + HTML projects
