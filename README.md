@@ -3,7 +3,9 @@
 </h1>
   <div>Aspiring full stack developer ☜(ﾟヮﾟ☜)</div>
   <br>
-  // React + react-router v7 crypto dashboard project:
+  // React + react-router v7 + supabase (dummy portfolio project)
+   <div>https://friendly-dev-one.vercel.app/</div>
+  // React + react-router v7 (crypto dashboard project)
   <div>https://crypto-dash-oleksandrozhoh.netlify.app/</div>
   // Vanila JS + HTML projects
   <div>https://oleksandrozhoh-omnifood-project01.netlify.app/</div>
