@@ -3,6 +3,8 @@
 </h1>
   <div>Aspiring full stack developer ☜(ﾟヮﾟ☜)</div>
   <br>
+  // AI QA factory - project in progress, which provides an agentic crew to handle test automation for a QA engineer
+   <div>https://ai-qa-factory-iegnh8jeg-oleksandr-ozhohs-projects.vercel.app/login</div>
   // React + react-router v7 + supabase (dummy portfolio project)
    <div>https://friendly-dev-one.vercel.app/</div>
   // React + react-router v7 (crypto dashboard project)
